@@ -38,4 +38,4 @@ class Cola:
         while actual:
             print(actual.cliente)
             actual = actual.siguiente
-            # Cola de turnos CarUPS
+           # Cola de turnos CarUPS
