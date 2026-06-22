@@ -37,3 +37,4 @@ class ListaClientes:
         while actual:
             print(f"DNI: {actual.dni} - Nombre: {actual.nombre}")
             actual = actual.siguiente
+            # Lista enlazada de clientes
